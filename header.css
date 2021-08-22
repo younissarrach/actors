@@ -1,0 +1,16 @@
+header {
+    height: 50px;
+}
+
+nav {
+    float: right;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+}
+
+li {
+    margin: 5px;
+}

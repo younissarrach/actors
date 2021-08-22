@@ -1,0 +1,31 @@
+div {
+    text-align: justify;
+    background-color: royalblue;
+    font-size: xx-large;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+select {
+    background-color: yellowgreen;
+    font-size: xx-large;
+}
+
+table {
+    border: thistle;
+    font-size: xx-large;
+}
+
+td,
+th {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
